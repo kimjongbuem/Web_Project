@@ -5,3 +5,6 @@
 12.06 아이디어 확정 및 역할분담, 프로젝트 아웃라인 설정
 
 12.07 프로젝트 DB설계, UserFlow, Logic Process 설계, .jsp파일 추가
+
+12.08 프로젝트 LoginProcess에 Input Data, Output Data 추가
+        프로젝트 OutLine에 맴버별 업무 분담 추가
