@@ -4,7 +4,7 @@
 <html>
 <head>
    <jsp:include page="head.jsp"></jsp:include>
-   <title>머지테스트수정중!</title>
+   <title>메인</title>
 </head>
 
 <body>
